@@ -13,10 +13,7 @@ products:
       text: "I. Auditoría de Alineación: Diagnóstico. Analizamos la brecha entre su identidad real y su presencia digital actual. Un informe de 3 ejes de mejora inmediata."
     - image: /img/illustrations-coffee-gear.svg
       text: "II. Estructura Canónica: Estrategia. Diseñamos el mapa de contenidos y el tono de voz que su audiencia necesita. Su Hoja de Ruta Estratégica a medida.”
-    - image: /img/illustrations-coffee-gear.svg
-      text: "III. Edificación Continua: Gestión. Implementamos y supervisamos la narrativa para asegurar resultados y permanencia. Crecimiento sostenido y nuevas adhesiones”
-
-
+    
 values:
     heading: Valor Agregado 
     text: Nuestra metodología ha sido puesta a prueba durante 30 meses, logrando transformar un proyecto de nicho desde cero hasta convertirlo en una autoridad de referencia con una comunidad activa y comprometida.
