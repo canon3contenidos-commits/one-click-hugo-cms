@@ -1,20 +1,25 @@
 ---
 title: "¿Su conocimiento especializado se pierde en el ruido digital?"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Canon 3 es ideal para entidades que valoran la eficacia
 image: /img/home-cabeza.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Nuestra Filosofía
+    text: "El Método detrás de la Autoridad. Las instituciones con historia no necesitan consejos genéricos de marketing; necesitan un Canon. Nacemos de la experiencia de casi tres años gestionando nichos de alta complejidad, donde demostramos que la claridad no tiene por qué sacrificar la profundidad. Aplicamos una regla de tres pasos para transformar su mensaje interno en un activo de captación y prestigio."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Qué ofrecemos"
+    text: "Un principio ordenador mediante el cual traducimos su profundidad institucional y filosófica en una narrativa digital clara, atractiva y con autoridad."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "I. Auditoría de Alineación: Diagnóstico. Analizamos la brecha entre su identidad real y su presencia digital actual. Un informe de 3 ejes de mejora inmediata."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "II. Estructura Canónica: Estrategia. Diseñamos el mapa de contenidos y el tono de voz que su audiencia necesita. Su Hoja de Ruta Estratégica a medida.”
+    - image: /img/illustrations-coffee-gear.svg
+      text: "III. Edificación Continua: Gestión. Implementamos y supervisamos la narrativa para asegurar resultados y permanencia. Crecimiento sostenido y nuevas adhesiones”
+
+
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Valor Agregado 
+    text: Nuestra metodología ha sido puesta a prueba durante 30 meses, logrando transformar un proyecto de nicho desde cero hasta convertirlo en una autoridad de referencia con una comunidad activa y comprometida.
+
 ---
 
